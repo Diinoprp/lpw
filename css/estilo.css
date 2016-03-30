@@ -1,16 +1,21 @@
 
 div.container{
-	border-style:solid;
-	border-color:green;
+	/*border-style:solid;
+	border-color:green;*/
 	height:200%;
 	margin-top:15px;
 }
 
 .ofertas{
-	border-style:solid;
-	border-color:red;
+	/*border-style:solid;
+	border-color:red;*/
 	margin-top:15px;
 	height:700px;
+}
+
+.ofertas img{
+    max-height: 242px;
+    max-width: 200px;
 }
 
 .linhaprodutos{
@@ -30,8 +35,8 @@ div.container{
 }
 
 .header{
-	border-style:solid;
-	border-color:yellow;
+	/*border-style:solid;
+	border-color:yellow;*/
 	height:200px;
 	width:100%;
 }
@@ -47,3 +52,5 @@ div.container{
 	transform: scale(1.2,1.2);
 	opacity: 1;
 }
+
+
