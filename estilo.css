@@ -1,0 +1,49 @@
+
+div.container{
+	border-style:solid;
+	border-color:green;
+	height:200%;
+	margin-top:15px;
+}
+
+.ofertas{
+	border-style:solid;
+	border-color:red;
+	margin-top:15px;
+	height:700px;
+}
+
+.linhaprodutos{
+	/*border-style:solid;
+	border-color:brown;*/
+	height:300px;
+	margin-top:15px;
+}
+
+.produto{
+	height:80%;
+	width:15%;
+	float:left;
+	margin-right:28px;
+	margin-left:28px;
+	margin-top:28px;
+}
+
+.header{
+	border-style:solid;
+	border-color:yellow;
+	height:200px;
+	width:100%;
+}
+
+.produto img{
+	height:100%;
+	width:100%;
+	transition:0.3s ease;
+	cursor:pointer;
+}
+
+.produto img:hover{
+	transform: scale(1.2,1.2);
+	opacity: 1;
+}
